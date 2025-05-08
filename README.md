@@ -1,7 +1,4 @@
-# TicTacToe JavaSwing Project
- A simle TicTacToe game using java swing for our java class project in YU
-# Tic-Tac-Toe Game 🎮
-
+# TicTacToe Game JavaSwing Project 🎮
 A basic **Tic-Tac-Toe** game built with **Java Swing**. This is a simple two-player game where players take turns placing `X` and `O` on a 3x3 grid. The game detects wins and draws, and allows players to restart the game.
 
 ## 🛠 Features
