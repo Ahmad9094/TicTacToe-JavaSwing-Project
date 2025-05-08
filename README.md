@@ -36,6 +36,6 @@ A basic **Tic-Tac-Toe** game built with **Java Swing**. This is a simple two-pla
  ```
 
 Prerequisites
-    Java JDK installed (8 or newer)
+    Java JDK installed (8 or newer)                                                      
     Maven (for building)
 
