@@ -22,19 +22,20 @@ A basic **Tic-Tac-Toe** game built with **Java Swing**. This is a simple two-pla
 ## 📦 Project Structure
 
 ```bash
-TicTacToeGame/
 ├── src/
-│   └── main/
-│       └── java/
-│           └── com/mycompany/tictactoegame/
-│               ├── Main.java
-│               └── TicTacToeGUI.java
+│ └── main/
+│ └── java/
+│ └── com/mycompany/tictactoegame/
+│ ├── GameBoard.java # Handles game logic
+│ ├── Main.java # Main entry point
+│ ├── Player.java # Represents a player (X or O)
+│ ├── TicTacToe.java # Coordinates the game
+│ └── TicTacToeGUI.java # Handles all GUI components
 ├── pom.xml
 └── README.md
+ ```
 
 Prerequisites
-
     Java JDK installed (8 or newer)
-
     Maven (for building)
 
