@@ -11,7 +11,7 @@ import javax.swing.*;
 public class Main {
     public static void main(String[] args) {
         // Welcome message
-        JOptionPane.showMessageDialog(null, "Welcome to Tic Tac Toe Game!\nCreated by [Your Name]", "Welcome", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(null, "Welcome to Tic Tac Toe Game!\nCreated by Group 19 Members", "Welcome", JOptionPane.INFORMATION_MESSAGE);
         new TicTacToeGUI();
     }
 }
